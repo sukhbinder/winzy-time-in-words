@@ -21,7 +21,9 @@ winzy install winzy-time-in-words
 ```
 ## Usage
 
-To get help type ``winzy  time --help``
+To get help type ``winzy time --help``
+
+![winzy time](https://raw.githubusercontent.com/sukhbinder/winzy-time-in-words/e3aeb3a757f344a7c712809a99bcaca20997ec32/example-usage.gif)
 
 ## Development
 
